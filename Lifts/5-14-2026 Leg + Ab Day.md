@@ -8,4 +8,4 @@
 - 8x125 Single Leg
 **Leg Curl**
 - 12x85
-- 
+- 11x95

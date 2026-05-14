@@ -1,4 +1,9 @@
 
+Cable Tricep Pushdown — 3 × 8–12
+
+Straight Arm Pushdown — 2–3 × 8–12
+
+
 
 ---
 
@@ -29,11 +34,6 @@ Machine Shoulder Press — 3 × 5–8
 Pec Deck — 2–3 × 8–12
 
 Single-Arm Lateral Raises — 3 × 10–12
-
-Cable Tricep Pushdown — 3 × 8–12
-
-Straight Arm Pushdown — 2–3 × 8–12
-
 
 
 ---
