@@ -18,3 +18,7 @@
 - 15x185
 **Calf Raises**
 - 15x415
+- 15x420
+- 15x420
+**Ab Crunches**
+- 
