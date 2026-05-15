@@ -12,3 +12,6 @@
 **Hip Hinge**
 - 12x135
 - 12x135
+- 11x145
+**Hip Abductor**
+- 15x170
