@@ -8,7 +8,8 @@
 - 8x125 Single Leg
 **Leg Curl**
 - 8x100
-- 11x95
+- 7x110
+- 
 **Hip Hinge**
 - 12x135
 - 12x135
