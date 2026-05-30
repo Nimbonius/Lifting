@@ -39,7 +39,7 @@ Cable Tricep Pushdown — 3 × 8–12
 
 Straight Arm Pushdown — 2–3 × 8–12
 
-Push Up Plus(for serratus anterior) - 2xFailure
+Push Up Plus(for serratus anterior) - 2xFailure/Do full reps until fatigued then do pulses at top
 
 ---
 
