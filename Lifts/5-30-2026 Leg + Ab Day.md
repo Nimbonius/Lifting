@@ -24,3 +24,5 @@
 **Ab Crunches**
 - 15x125
 - 15x130
+**Leg Raises**
+- 
