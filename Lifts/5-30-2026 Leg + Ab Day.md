@@ -15,10 +15,10 @@
 - 12x135
 - 12x135
 **Hip Abductor**
-- 15x170
 - 15x185
+- 
 **Calf Raises**
-- 15x415
+- 15x420
 - 15x420
 - 15x420
 **Ab Crunches**
