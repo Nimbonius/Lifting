@@ -5,7 +5,7 @@
 **Leg Extension**
 - 8x125 Both Legs (Warmup)
 - 8x115 LR
-- 8x
+- 8x115 LR
 **Leg Curl**
 - 8x100
 - 7x110
