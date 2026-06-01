@@ -7,8 +7,11 @@
 - 7x90 LR
 - 8x90 LR
 **Kelso Shrugs**
-- 12x45 
 - 12x55
+- 12x65
+**Rear Delt Fly**
+- 12x85 (Warmup)
+- 9x115
 **Machine Preacher Curl + Base Included**
 - 8x66 (Warmup)
 - 7x91
@@ -17,7 +20,3 @@
 - 12x60 (Warmup)
 - 10x82
 - 7x82
-**Rear Delt Fly**
-- 12x100 (Warmup)
-- 9x115
-- 
