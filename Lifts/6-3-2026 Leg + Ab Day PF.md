@@ -7,7 +7,7 @@
 - 8x85 LR
 - 8x90 LR
 **Leg Curl**
-- 8x100
+- 8x85 (Warmup)
 - 7x110
 - 5x110
 **Hip Hinge**
