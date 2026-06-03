@@ -8,15 +8,13 @@
 - 5x85
 **Pec Dec**
 - 12x145 (Warmup)
-- 8x220
-- 5x220
+- 5x200
+- 5x190
 **Lateral Raises**
 - 12x17.5 LR
-- 10x23 LR
+- 12x17.5 LR
 **Cable Tricep Pushdown**
-- 9x112
-- 12x112
-- 10x122
+- Skipped cuz swim
 **Straight Arm Pushdown**
-- 12x92
-- 12x102
+- 8x57.5
+- 12x57.5
