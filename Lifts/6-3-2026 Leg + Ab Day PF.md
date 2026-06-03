@@ -1,5 +1,5 @@
-**Hak Squat**
-- 8x285 (Warmup)
+**Leg Press**
+- WarmupxWarmup idk
 - 8x375
 - 7x375
 **Leg Extension**
