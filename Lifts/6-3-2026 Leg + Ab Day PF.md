@@ -13,16 +13,17 @@
 **Hip Hinge**
 - 12x135
 - 12x135
-- 12x135
 **Hip Abductor**
 - 12x215
 - 15x230
 **Calf Raises**
 - 15x335
 - 15x335
-**Ab Crunches**
-- 15x140
-- 15x145
-- 12x155
+**Decline Crunches**
+- 15x10
+- 15x10
+- 15x10
 **Leg Raises**
-- 
+- 15
+-  15
+- 15
