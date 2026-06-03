@@ -16,7 +16,7 @@
 - 12x135
 **Hip Abductor**
 - 12x215
-- 13x190
+- 15x230
 **Calf Raises**
 - 15x335
 - 15x335
