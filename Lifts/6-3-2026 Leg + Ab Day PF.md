@@ -1,6 +1,6 @@
 **Leg Press**
 - WarmupxWarmup idk
-- 8x375
+- 8x230
 - 7x375
 **Leg Extension**
 - 8x100 Both Legs (Warmup)
