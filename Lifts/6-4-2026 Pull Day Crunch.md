@@ -7,8 +7,8 @@
 - 8x90 LR
 - 8x90 LR
 **Kelso Shrugs**
-- 12x55
 - 12x65
+- 
 **Rear Delt Fly**
 - 12x85 (Warmup)
 - 7x115
