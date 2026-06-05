@@ -4,7 +4,7 @@
 - 7x145
 **Machine Shoulder Press**
 - 8x80 (Warmup)
-- 8x125
+- 8x130
 - 7x130
 **Pec Dec**
 - 12x145 (Warmup)
