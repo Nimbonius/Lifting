@@ -14,9 +14,7 @@
 - 12x23 LR
 - 10x23 LR
 **Cable Tricep Pushdown**
-- 9x112
-- 12x112
-- 10x122
+- Skipping for swim fatigue
 **Straight Arm Pushdown**
-- 12x92
-- 12x102
+- 11x112
+- 
