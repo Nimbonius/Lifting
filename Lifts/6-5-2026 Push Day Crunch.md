@@ -12,9 +12,11 @@
 - 8x220
 **Lateral Raises**
 - 12x23 LR
-- 10x23 LR
+- 12x23 LR
 **Cable Tricep Pushdown**
 - Skipping for swim fatigue
 **Straight Arm Pushdown**
 - 11x112
 - 10x112
+**Push Up Plus**
+- 
