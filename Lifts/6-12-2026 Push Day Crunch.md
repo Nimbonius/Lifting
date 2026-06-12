@@ -16,7 +16,7 @@
 **Cable Tricep Pushdown**
 - Skipping for swim fatigue
 **Straight Arm Pushdown**
-- 11x112
-- 10x112
+- 12x112
+-12x112 
 **Push Up Plus**
 - 
