@@ -20,4 +20,4 @@
 **Cable Reverse Curl**
 - 12x60 (Warmup)
 - 6x92
-- 7x82
+- 10x82

@@ -1,0 +1,22 @@
+**Incline Smith Machine Press**
+- 8x115 (Warmup)
+- 8x145
+- 6x155
+**Machine Shoulder Press**
+- 12x80 (Warmup)
+- 8x140
+- 7x130
+**Pec Dec**
+- 12x145 (Warmup)
+- 8x220
+- 8x220
+**Lateral Raises**
+- 12x23 LR
+- 12x23 LR
+**Cable Tricep Pushdown**
+- Skipping for swim fatigue
+**Straight Arm Pushdown**
+- 11x112
+- 10x112
+**Push Up Plus**
+- 
