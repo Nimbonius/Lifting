@@ -17,6 +17,6 @@
 - Skipping for swim fatigue
 **Straight Arm Pushdown**
 - 12x112
--12x112 
+- 12x112 
 **Push Up Plus**
 - 
