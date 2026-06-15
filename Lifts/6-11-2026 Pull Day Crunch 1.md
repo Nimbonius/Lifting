@@ -1,11 +1,9 @@
 **Lat Pulldown**
 - 12x72(Warmup)
 - 8x152
-- 
+- 7x152
 **Single Arm Lat Rows** + 25LB base
-- 8x45 (Warmup) LR
-- 8x90 LR
-- 8x95LR
+- Skipped huge open wound on left hand
 **Kelso Shrugs**
 - 12x65
 - 12x65
