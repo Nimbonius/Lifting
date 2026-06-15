@@ -12,9 +12,9 @@
 - 8x115
 - 7x115
 **Machine Preacher Curl + Base Included**
-- 8x66 (Warmup)
-- 8x91
-- 6x96
+- 12x66 (Warmup)
+- 8x96
+- 
 **Cable Reverse Curl**
 - 12x60 (Warmup)
 - 6x92
