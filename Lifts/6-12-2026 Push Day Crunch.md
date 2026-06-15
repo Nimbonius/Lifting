@@ -11,8 +11,7 @@
 - 8x235
 - 8x220
 **Lateral Raises**
-- 12x23 LR
-- 12x23 LR
+- Skipped for travel time
 **Cable Tricep Pushdown**
 - Skipping for swim fatigue
 **Straight Arm Pushdown**
