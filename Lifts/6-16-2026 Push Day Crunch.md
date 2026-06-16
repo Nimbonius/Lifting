@@ -9,7 +9,7 @@
 **Pec Dec**
 - 12x115 (Warmup)
 - 8x250
-- 
+- 8x255
 **Lateral Raises**
 - Skipped for travel time
 **Cable Tricep Pushdown**
