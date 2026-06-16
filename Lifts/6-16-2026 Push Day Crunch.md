@@ -5,11 +5,11 @@
 **Machine Shoulder Press**
 - 12x80 (Warmup)
 - 8x145
-- 
+- 7x145
 **Pec Dec**
-- 12x145 (Warmup)
-- 8x235
-- 8x220
+- 12x115 (Warmup)
+- 8x250
+- 
 **Lateral Raises**
 - Skipped for travel time
 **Cable Tricep Pushdown**
