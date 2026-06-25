@@ -11,7 +11,7 @@
 - 12x65
 **Rear Delt Fly**
 - 12x85 (Warmup)
-- 8x115
+- 10x115
 - 7x115
 **Machine Preacher Curl + Base Included**
 - 12x66 (Warmup)
