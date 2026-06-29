@@ -1,7 +1,7 @@
 **Lat Pulldown**
 - 12x72(Warmup)
 - 7x152
-- 5x152
+- 7x152
 **Single Arm Lat Rows** + 25LB base
 - 8x45 LR (Warmup)
 - 8x90 LR
