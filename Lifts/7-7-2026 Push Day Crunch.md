@@ -18,6 +18,6 @@
 - 8x112
 **Straight Arm Pushdown**
 - 12x112
-- 11x122
+- 12x112
 **Push Up Plus**
 - 
