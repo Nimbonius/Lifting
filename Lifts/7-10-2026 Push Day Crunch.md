@@ -15,7 +15,7 @@
 - 10x27 LR
 **Cable Tricep Pushdown**
 - 12x72
-- 8x112
+- 12x112
 - 8x112
 **Straight Arm Pushdown**
 - 12x112
