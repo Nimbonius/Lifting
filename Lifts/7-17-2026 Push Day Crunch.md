@@ -1,7 +1,7 @@
 **Incline Smith Machine Press**
 - 8x115 (Warmup)
-- 8x165
 - 7x165
+- 
 **Machine Shoulder Press**
 - 12x80 (Warmup)
 - 5x155
