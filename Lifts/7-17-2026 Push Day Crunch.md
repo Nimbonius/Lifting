@@ -1,11 +1,11 @@
 **Incline Smith Machine Press**
 - 8x115 (Warmup)
 - 7x165
-- 5x165
+- 5x154
 **Machine Shoulder Press**
 - 12x80 (Warmup)
+- 8x155
 - 5x155
-- 7x155
 **Pec Dec**
 - 12x115 (Warmup)
 - 8x255
