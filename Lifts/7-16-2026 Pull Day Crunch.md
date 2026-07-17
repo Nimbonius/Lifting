@@ -4,19 +4,19 @@
 - 7x152
 **Single Arm Lat Rows** + 25LB base
 - 8x45 LR (Warmup)
-- 7x90 LR
-- 6x90 LR
+- 8x80 LR
+- 8x80 LR
 **Kelso Shrugs**
-- 12x65
-- 12x65
+- 12x45
+- 12x45
 **Rear Delt Fly**
 - 12x85 (Warmup)
 - 12x120
-- 8x120
+- 10x120
 **Machine Preacher Curl + Base Included**
 - 8x66 (Warmup)
 - 6x111
-- 5x111
+- 111 Drop-down 
 **Cable Reverse Curl**
 - 12x60 (Warmup)
 - 12x82
