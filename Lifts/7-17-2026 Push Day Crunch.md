@@ -9,7 +9,7 @@
 **Pec Dec**
 - 12x115 (Warmup)
 - 8x255
-- 8x255
+- 8x260
 **Lateral Raises**
 -  10x27 LR
 - 10x27 LR
