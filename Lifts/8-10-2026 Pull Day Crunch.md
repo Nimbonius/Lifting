@@ -5,7 +5,7 @@
 **Single Arm Lat Rows** + 25LB base
 - 8x45 LR (Warmup)
 - 8x70 LR
-- 
+- 8x70 LR
 **Kelso Shrugs**
 - 12x45
 - 12x45
