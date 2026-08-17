@@ -15,7 +15,7 @@
 - 7x120
 **Machine Preacher Curl + Base Included**
 - 8x66 (Warmup)
-- 6x111
+- 5x111
 - 111 Drop-down 
 **Cable Reverse Curl**
 - 12x60 (Warmup)
