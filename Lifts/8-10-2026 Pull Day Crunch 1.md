@@ -1,7 +1,7 @@
 **Lat Pulldown**
 - 12x112 (Warmup)
 - 6x145
-- 6x152
+- 5x145
 **Single Arm Lat Rows** + 25LB base
 - 8x45 LR (Warmup)
 - 8x70 LR
@@ -14,9 +14,9 @@
 - 9x120
 - 7x120
 **Machine Preacher Curl + Base Included**
-- 8x66 (Warmup)
-- 5x111
-- 111 Drop-down 
+- 8x40 LR
+- 
+-  
 **Cable Reverse Curl**
 - 12x60 (Warmup)
 - 12x82
