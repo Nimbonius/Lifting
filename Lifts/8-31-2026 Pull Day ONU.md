@@ -10,13 +10,13 @@
 - 12x70 LR
 - 10x70 LR
 **Rear Delt Fly**
-- 12x85 (Warmup)
-- 9x120
-- 7x120
+- 12x45 (Warmup)
+- 6x60
+- 6x60
  **Bicep Curls**
 - 8x40 LR
-- 8x45 LR to failure
--  45 Lbs dropdown 35 to failure
+- 40 LR to failure
+- 45 Lbs dropdown 35 to failure
 **Cable Reverse Curl**
 - 12x60 (Warmup)
 - 12x82
