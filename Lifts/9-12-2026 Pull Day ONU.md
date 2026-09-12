@@ -1,7 +1,7 @@
 **Lat Pulldown**
 - 12x100 (Warmup)
 - 7x145
-- 
+- 5x145
 **Single Arm Lat Rows**
 - 8x70 LR 
 - 8x70 LR
