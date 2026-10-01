@@ -8,13 +8,13 @@
 - 8x120
 **Pec Dec**
 - 12x60 (Warmup)
-- 6x115
 - 5x115
+- 4x115
 **Lateral Raises** (Free weight
 -  12x15
 - 10x27 LR
 **Cable Tricep Pushdown**
-- 12x72
+- 12x70
 - 12x115
 - 12x115
 **Straight Arm Pushdown**
