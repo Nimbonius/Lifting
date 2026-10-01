@@ -1,7 +1,7 @@
 **Bench Press Dumbell**
 - 12x40 
 - 7x55
-- 8x145
+- 8x55
 **Machine Shoulder Press**
 - 12x70(Warmup)
 - 8x115
